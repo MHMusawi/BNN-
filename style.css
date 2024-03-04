@@ -1,0 +1,62 @@
+body {
+  font-family: system-ui;
+  background-image: url("https://servicepath.co/wp-content/uploads/2019/11/news-1200x565.jpg");  color: white;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+}
+h1 
+{color : red;}
+div {
+  margin: auto;
+  width: 80%;
+  height: 5%;
+  background-color: white;
+  border: 1px white;
+  padding: 5px;
+}
+div {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+}
+
+h2 {color : red;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p1{
+  font-family: Arial, Helvetica, sans-serif;
+  color : red
+}
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;}
+
+h3 { color : red;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+}
+  h1 { text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: double;
+  text-decoration-thickness: 5px;
+}
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
