@@ -1,0 +1,20 @@
+body {
+    font-family: system-ui;
+    background-image: url("https://cdn.pixabay.com/photo/2023/08/03/21/57/ai-generated-8167989_1280.jpg");  color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+  }
+
+button {
+    background-color: #04AA6D;
+    border: red;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
